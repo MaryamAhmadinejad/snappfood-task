@@ -20,9 +20,11 @@ from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column, rela
 
 from static_data import (
     cities,
+    contracts,
     provinces,
     vendor_information_evaluations,
     vendor_informations,
+    vendor_selections,
     vendors,
 )
 
@@ -232,6 +234,32 @@ for info in vendor_information_evaluations:
         status=info["status"],
         created_at=info["created_at"],
         updated_at=info["updated_at"],
+    )
+    session.add(new_data)
+
+
+###########################################
+# INSERT VENDOR SELECTIONS
+###########################################
+for info in vendor_selections:
+    new_data = VendorSelection(
+        id=info["id"],
+        vendorinformationevaluation_id=info["vendor_information_evaluation_id"],
+        status=info["status"],
+        created_at=info["created_at"],
+        updated_at=info["updated_at"],
+    )
+    session.add(new_data)
+
+
+###########################################
+# INSERT CONTRACTS
+###########################################
+for contract in contracts:
+    new_data = Contract(
+        id=contract["id"],
+        vendor_id=contract["vendor_id"],
+        created_at=contract["created_at"],
     )
     session.add(new_data)
 
