@@ -70,7 +70,7 @@ class Province(Base):
     __tablename__ = "province"
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
-    name: Mapped[str] = mapped_column(VARCHAR(18))
+    name: Mapped[str] = mapped_column(VARCHAR(25))
     cities: Mapped[List["City"]] = relationship(back_populates="province")
 
 
