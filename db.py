@@ -30,7 +30,7 @@ from static_data import (
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "M13121371m$"
+MYSQL_PASSWORD = "XXXXXXXXXXX"
 MYSQL_HOST_NAME = "localhost"
 MYSQL_PORT = 3306
 DB_NAME = "digitalacquisitiondb"
