@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "created_date": "2023-06",
+      "percent": "12.34"
+    },
+    {
+      "created_date": "2023-07",
+      "percent": "6.72"
+    },
+    {
+      "created_date": "2023-08",
+      "percent": "20.54"
+    },
+    {
+      "created_date": "2023-09",
+      "percent": "15.824"
+    },
+    {
+      "created_date": "2023-10",
+      "percent": "63.204"
+    },
+    {
+      "created_date": "2023-11",
+      "percent": "27.583"
+    },
+    {
+      "created_date": "2023-12",
+      "percent": "43.767"
+    }
+  ]
+}
