@@ -1,5 +1,3 @@
-import csv
-import json
 from datetime import datetime
 from typing import List
 
@@ -18,7 +16,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import DeclarativeBase, Mapped, Session, mapped_column, relationship
 
-from static_data import (
+from data.fake_data import (
     cities,
     contracts,
     provinces,
@@ -30,7 +28,7 @@ from static_data import (
 
 MYSQL_DRIVER = "mysql+mysqlconnector"
 MYSQL_USERNAME = "root"
-MYSQL_PASSWORD = "XXXXXXXXXXX"
+MYSQL_PASSWORD = "M13121371m$"
 MYSQL_HOST_NAME = "localhost"
 MYSQL_PORT = 3306
 DB_NAME = "digitalacquisitiondb"

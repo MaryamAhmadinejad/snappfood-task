@@ -217,7 +217,7 @@ vendor_informations = [
         "number_of_unique_products": 20,
         "mean_daily_sales": 50,
         "hygiene_score": 8,
-        "created_at": "2023-02-11 13:42:20",
+        "created_at": "2023-08-11 13:42:20",
     },
     {
         "id": 2,
@@ -227,7 +227,7 @@ vendor_informations = [
         "number_of_unique_products": 20,
         "mean_daily_sales": 50,
         "hygiene_score": 7,
-        "created_at": "2023-02-10 15:42:10",
+        "created_at": "2023-08-10 15:42:10",
     },
     {
         "id": 3,
@@ -237,7 +237,7 @@ vendor_informations = [
         "number_of_unique_products": 20,
         "mean_daily_sales": 50,
         "hygiene_score": 7,
-        "created_at": "2023-02-10 16:42:10",
+        "created_at": "2023-08-10 16:42:10",
     },
     {
         "id": 4,
@@ -247,7 +247,7 @@ vendor_informations = [
         "number_of_unique_products": 21,
         "mean_daily_sales": 15,
         "hygiene_score": 3,
-        "created_at": "2019-05-10 10:34:23",
+        "created_at": "2023-11-10 10:34:23",
     },
     {
         "id": 5,
@@ -257,7 +257,7 @@ vendor_informations = [
         "number_of_unique_products": 20,
         "mean_daily_sales": 50,
         "hygiene_score": 7,
-        "created_at": "2023-02-10 16:42:10",
+        "created_at": "2023-08-10 16:42:10",
     },
     {
         "id": 9,
@@ -267,7 +267,7 @@ vendor_informations = [
         "number_of_unique_products": 164,
         "mean_daily_sales": 58,
         "hygiene_score": 3,
-        "created_at": "2022-04-30 06:38:29",
+        "created_at": "2023-10-30 06:38:29",
     },
     {
         "id": 10,
@@ -277,7 +277,7 @@ vendor_informations = [
         "number_of_unique_products": 101,
         "mean_daily_sales": 84,
         "hygiene_score": 3,
-        "created_at": "2019-09-17 08:04:22",
+        "created_at": "2023-09-17 08:04:22",
     },
     {
         "id": 11,
@@ -287,7 +287,7 @@ vendor_informations = [
         "number_of_unique_products": 79,
         "mean_daily_sales": 18,
         "hygiene_score": 7,
-        "created_at": "2015-11-01 05:11:48",
+        "created_at": "2023-11-01 05:11:48",
     },
     {
         "id": 12,
@@ -297,7 +297,7 @@ vendor_informations = [
         "number_of_unique_products": 129,
         "mean_daily_sales": 59,
         "hygiene_score": 0,
-        "created_at": "2016-12-05 12:09:01",
+        "created_at": "2023-12-05 12:09:01",
     },
     {
         "id": 13,
@@ -307,7 +307,7 @@ vendor_informations = [
         "number_of_unique_products": 23,
         "mean_daily_sales": 29,
         "hygiene_score": 3,
-        "created_at": "2020-08-16 05:55:35",
+        "created_at": "2023-08-16 05:55:35",
     },
     {
         "id": 14,
@@ -317,7 +317,7 @@ vendor_informations = [
         "number_of_unique_products": 81,
         "mean_daily_sales": 68,
         "hygiene_score": 0,
-        "created_at": "2018-09-22 01:49:25",
+        "created_at": "2023-09-22 01:49:25",
     },
     {
         "id": 15,
@@ -327,7 +327,7 @@ vendor_informations = [
         "number_of_unique_products": 107,
         "mean_daily_sales": 43,
         "hygiene_score": 3,
-        "created_at": "2016-02-09 06:58:30",
+        "created_at": "2023-08-09 06:58:30",
     },
     {
         "id": 16,
@@ -337,7 +337,7 @@ vendor_informations = [
         "number_of_unique_products": 51,
         "mean_daily_sales": 14,
         "hygiene_score": 8,
-        "created_at": "2019-11-04 12:10:40",
+        "created_at": "2023-11-04 12:10:40",
     },
     {
         "id": 17,
@@ -347,7 +347,7 @@ vendor_informations = [
         "number_of_unique_products": 149,
         "mean_daily_sales": 88,
         "hygiene_score": 9,
-        "created_at": "2022-03-15 02:49:50",
+        "created_at": "2023-09-15 02:49:50",
     },
     {
         "id": 18,
@@ -357,7 +357,7 @@ vendor_informations = [
         "number_of_unique_products": 196,
         "mean_daily_sales": 37,
         "hygiene_score": 10,
-        "created_at": "2022-07-03 07:30:19",
+        "created_at": "2023-07-03 07:30:19",
     },
     {
         "id": 19,
@@ -367,7 +367,7 @@ vendor_informations = [
         "number_of_unique_products": 150,
         "mean_daily_sales": 55,
         "hygiene_score": 2,
-        "created_at": "2015-08-22 05:39:52",
+        "created_at": "2023-08-22 05:39:52",
     },
     {
         "id": 20,
@@ -377,7 +377,7 @@ vendor_informations = [
         "number_of_unique_products": 117,
         "mean_daily_sales": 24,
         "hygiene_score": 5,
-        "created_at": "2018-09-12 03:38:44",
+        "created_at": "2023-09-12 03:38:44",
     },
     {
         "id": 21,
@@ -387,7 +387,7 @@ vendor_informations = [
         "number_of_unique_products": 130,
         "mean_daily_sales": 17,
         "hygiene_score": 0,
-        "created_at": "2016-10-23 02:14:58",
+        "created_at": "2023-10-23 02:14:58",
     },
     {
         "id": 22,
@@ -397,7 +397,7 @@ vendor_informations = [
         "number_of_unique_products": 21,
         "mean_daily_sales": 25,
         "hygiene_score": 2,
-        "created_at": "2019-12-18 06:45:02",
+        "created_at": "2023-11-18 06:45:02",
     },
     {
         "id": 23,
@@ -407,7 +407,7 @@ vendor_informations = [
         "number_of_unique_products": 150,
         "mean_daily_sales": 12,
         "hygiene_score": 1,
-        "created_at": "2020-07-01 05:30:20",
+        "created_at": "2023-07-01 05:30:20",
     },
     {
         "id": 24,
@@ -417,7 +417,7 @@ vendor_informations = [
         "number_of_unique_products": 120,
         "mean_daily_sales": 42,
         "hygiene_score": 4,
-        "created_at": "2020-07-01 05:30:20",
+        "created_at": "2023-07-01 05:30:20",
     },
     {
         "id": 26,
@@ -427,7 +427,7 @@ vendor_informations = [
         "number_of_unique_products": 183,
         "mean_daily_sales": 76,
         "hygiene_score": 2,
-        "created_at": "2021-03-29 12:45:12",
+        "created_at": "2023-09-29 12:45:12",
     },
     {
         "id": 28,
@@ -437,7 +437,7 @@ vendor_informations = [
         "number_of_unique_products": 118,
         "mean_daily_sales": 14,
         "hygiene_score": 10,
-        "created_at": "2018-12-01 10:20:12",
+        "created_at": "2023-12-01 10:20:12",
     },
     {
         "id": 29,
@@ -447,7 +447,7 @@ vendor_informations = [
         "number_of_unique_products": 124,
         "mean_daily_sales": 49,
         "hygiene_score": 8,
-        "created_at": "2018-03-17 03:37:26",
+        "created_at": "2023-09-17 03:37:26",
     },
     {
         "id": 30,
@@ -457,7 +457,7 @@ vendor_informations = [
         "number_of_unique_products": 78,
         "mean_daily_sales": 36,
         "hygiene_score": 10,
-        "created_at": "2019-05-11 08:30:06",
+        "created_at": "2023-11-11 08:30:06",
     },
     {
         "id": 31,
@@ -467,7 +467,7 @@ vendor_informations = [
         "number_of_unique_products": 22,
         "mean_daily_sales": 13,
         "hygiene_score": 1,
-        "created_at": "2017-08-11 01:51:11",
+        "created_at": "2023-08-11 01:51:11",
     },
     {
         "id": 32,
@@ -477,7 +477,7 @@ vendor_informations = [
         "number_of_unique_products": 171,
         "mean_daily_sales": 39,
         "hygiene_score": 8,
-        "created_at": "2015-02-19 06:06:58",
+        "created_at": "2023-08-19 06:06:58",
     },
     {
         "id": 33,
@@ -487,7 +487,7 @@ vendor_informations = [
         "number_of_unique_products": 149,
         "mean_daily_sales": 78,
         "hygiene_score": 7,
-        "created_at": "2017-09-12 02:24:12",
+        "created_at": "2023-09-12 02:24:12",
     },
     {
         "id": 34,
@@ -497,7 +497,7 @@ vendor_informations = [
         "number_of_unique_products": 149,
         "mean_daily_sales": 78,
         "hygiene_score": 7,
-        "created_at": "2017-09-10 02:24:12",
+        "created_at": "2023-09-10 02:24:12",
     },
     {
         "id": 35,
@@ -517,7 +517,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2019-05-01 05:16:12",
+        "created_at": "2023-11-01 05:16:12",
     },
     {
         "id": 37,
@@ -527,7 +527,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2019-04-01 05:16:12",
+        "created_at": "2023-10-01 05:16:12",
     },
     {
         "id": 38,
@@ -537,7 +537,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2019-03-01 05:16:12",
+        "created_at": "2023-09-01 05:16:12",
     },
     {
         "id": 39,
@@ -547,7 +547,7 @@ vendor_informations = [
         "number_of_unique_products": 151,
         "mean_daily_sales": 99,
         "hygiene_score": 5,
-        "created_at": "2020-03-17 11:32:47",
+        "created_at": "2023-09-17 11:32:47",
     },
     {
         "id": 40,
@@ -557,7 +557,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2021-03-01 13:16:12",
+        "created_at": "2023-09-01 13:16:12",
     },
     {
         "id": 41,
@@ -567,7 +567,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2021-03-01 15:16:12",
+        "created_at": "2023-09-01 15:16:12",
     },
     {
         "id": 42,
@@ -577,7 +577,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2020-03-07 15:16:12",
+        "created_at": "2023-09-07 15:16:12",
     },
     {
         "id": 43,
@@ -587,7 +587,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2021-03-09 17:10:12",
+        "created_at": "2023-09-09 17:10:12",
     },
     {
         "id": 44,
@@ -597,7 +597,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2021-03-07 12:10:12",
+        "created_at": "2023-09-07 12:10:12",
     },
     {
         "id": 45,
@@ -607,7 +607,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2020-03-03 17:10:12",
+        "created_at": "2023-09-03 17:10:12",
     },
     {
         "id": 46,
@@ -617,7 +617,7 @@ vendor_informations = [
         "number_of_unique_products": 50,
         "mean_daily_sales": 53,
         "hygiene_score": 3,
-        "created_at": "2021-03-06 15:10:12",
+        "created_at": "2023-09-06 15:10:12",
     },
     {
         "id": 47,
@@ -627,7 +627,7 @@ vendor_informations = [
         "number_of_unique_products": 62,
         "mean_daily_sales": 75,
         "hygiene_score": 5,
-        "created_at": "2016-10-03 01:26:48",
+        "created_at": "2023-10-03 01:26:48",
     },
     {
         "id": 48,
@@ -637,7 +637,7 @@ vendor_informations = [
         "number_of_unique_products": 151,
         "mean_daily_sales": 99,
         "hygiene_score": 5,
-        "created_at": "2019-03-17 11:32:47",
+        "created_at": "2023-09-17 11:32:47",
     },
     {
         "id": 49,
@@ -647,7 +647,7 @@ vendor_informations = [
         "number_of_unique_products": 91,
         "mean_daily_sales": 56,
         "hygiene_score": 10,
-        "created_at": "2016-02-20 12:39:18",
+        "created_at": "2023-08-20 12:39:18",
     },
     {
         "id": 50,
@@ -657,7 +657,7 @@ vendor_informations = [
         "number_of_unique_products": 174,
         "mean_daily_sales": 94,
         "hygiene_score": 0,
-        "created_at": "2016-01-16 01:03:15",
+        "created_at": "2023-07-16 01:03:15",
     },
     {
         "id": 51,
@@ -667,7 +667,7 @@ vendor_informations = [
         "number_of_unique_products": 71,
         "mean_daily_sales": 63,
         "hygiene_score": 5,
-        "created_at": "2019-08-13 05:59:13",
+        "created_at": "2023-08-13 05:59:13",
     },
     {
         "id": 52,
@@ -687,7 +687,7 @@ vendor_informations = [
         "number_of_unique_products": 117,
         "mean_daily_sales": 13,
         "hygiene_score": 4,
-        "created_at": "2015-12-04 10:59:38",
+        "created_at": "2023-12-04 10:59:38",
     },
     {
         "id": 54,
@@ -697,7 +697,7 @@ vendor_informations = [
         "number_of_unique_products": 117,
         "mean_daily_sales": 13,
         "hygiene_score": 4,
-        "created_at": "2019-12-04 10:59:38",
+        "created_at": "2023-12-04 10:59:38",
     },
     {
         "id": 55,
@@ -707,7 +707,7 @@ vendor_informations = [
         "number_of_unique_products": 95,
         "mean_daily_sales": 49,
         "hygiene_score": 6,
-        "created_at": "2023-01-16 11:16:07",
+        "created_at": "2023-07-16 11:16:07",
     },
     {
         "id": 56,
@@ -717,7 +717,7 @@ vendor_informations = [
         "number_of_unique_products": 85,
         "mean_daily_sales": 91,
         "hygiene_score": 0,
-        "created_at": "2014-03-15 06:40:12",
+        "created_at": "2023-09-15 06:40:12",
     },
     {
         "id": 57,
@@ -727,7 +727,7 @@ vendor_informations = [
         "number_of_unique_products": 85,
         "mean_daily_sales": 91,
         "hygiene_score": 0,
-        "created_at": "2017-03-15 06:40:12",
+        "created_at": "2023-09-15 06:40:12",
     },
     {
         "id": 58,
@@ -737,7 +737,7 @@ vendor_informations = [
         "number_of_unique_products": 91,
         "mean_daily_sales": 29,
         "hygiene_score": 8,
-        "created_at": "2018-01-12 09:56:43",
+        "created_at": "2023-07-12 09:56:43",
     },
     {
         "id": 59,
@@ -747,7 +747,7 @@ vendor_informations = [
         "number_of_unique_products": 2,
         "mean_daily_sales": 93,
         "hygiene_score": 9,
-        "created_at": "2021-08-28 04:21:34",
+        "created_at": "2023-08-28 04:21:34",
     },
     {
         "id": 60,
@@ -757,7 +757,7 @@ vendor_informations = [
         "number_of_unique_products": 26,
         "mean_daily_sales": 71,
         "hygiene_score": 0,
-        "created_at": "2021-09-27 11:27:29",
+        "created_at": "2023-09-27 11:27:29",
     },
     {
         "id": 61,
@@ -767,7 +767,7 @@ vendor_informations = [
         "number_of_unique_products": 12,
         "mean_daily_sales": 10,
         "hygiene_score": 8,
-        "created_at": "2020-12-28 01:54:49",
+        "created_at": "2023-10-28 01:54:49",
     },
     {
         "id": 62,
@@ -777,7 +777,7 @@ vendor_informations = [
         "number_of_unique_products": 68,
         "mean_daily_sales": 97,
         "hygiene_score": 2,
-        "created_at": "2021-05-02 19:55:22",
+        "created_at": "2023-11-02 19:55:22",
     },
     {
         "id": 63,
@@ -787,7 +787,7 @@ vendor_informations = [
         "number_of_unique_products": 64,
         "mean_daily_sales": 62,
         "hygiene_score": 9,
-        "created_at": "2019-05-03 15:59:59",
+        "created_at": "2023-11-03 15:59:59",
     },
     {
         "id": 64,
@@ -797,7 +797,7 @@ vendor_informations = [
         "number_of_unique_products": 64,
         "mean_daily_sales": 62,
         "hygiene_score": 9,
-        "created_at": "2019-07-03 15:59:59",
+        "created_at": "2023-07-03 15:59:59",
     },
     {
         "id": 65,
@@ -807,7 +807,7 @@ vendor_informations = [
         "number_of_unique_products": 5,
         "mean_daily_sales": 29,
         "hygiene_score": 4,
-        "created_at": "2022-02-22 08:17:31",
+        "created_at": "2023-08-22 08:17:31",
     },
     {
         "id": 66,
@@ -817,7 +817,7 @@ vendor_informations = [
         "number_of_unique_products": 5,
         "mean_daily_sales": 29,
         "hygiene_score": 4,
-        "created_at": "2021-02-22 18:17:31",
+        "created_at": "2023-08-22 18:17:31",
     },
     {
         "id": 67,
@@ -827,7 +827,7 @@ vendor_informations = [
         "number_of_unique_products": 151,
         "mean_daily_sales": 78,
         "hygiene_score": 0,
-        "created_at": "2016-11-04 08:51:27",
+        "created_at": "2023-11-04 08:51:27",
     },
     {
         "id": 68,
@@ -837,7 +837,7 @@ vendor_informations = [
         "number_of_unique_products": 112,
         "mean_daily_sales": 18,
         "hygiene_score": 1,
-        "created_at": "2016-08-10 19:14:48",
+        "created_at": "2023-08-10 19:14:48",
     },
     {
         "id": 69,
@@ -847,7 +847,7 @@ vendor_informations = [
         "number_of_unique_products": 162,
         "mean_daily_sales": 74,
         "hygiene_score": 7,
-        "created_at": "2022-02-13 12:04:58",
+        "created_at": "2023-08-13 12:04:58",
     },
     {
         "id": 70,
@@ -857,7 +857,7 @@ vendor_informations = [
         "number_of_unique_products": 106,
         "mean_daily_sales": 66,
         "hygiene_score": 8,
-        "created_at": "2021-11-25 12:42:20",
+        "created_at": "2023-11-25 12:42:20",
     },
     {
         "id": 71,
@@ -867,7 +867,7 @@ vendor_informations = [
         "number_of_unique_products": 76,
         "mean_daily_sales": 64,
         "hygiene_score": 9,
-        "created_at": "2022-01-21 04:20:55",
+        "created_at": "2023-07-21 04:20:55",
     },
     {
         "id": 72,
@@ -877,7 +877,7 @@ vendor_informations = [
         "number_of_unique_products": 181,
         "mean_daily_sales": 32,
         "hygiene_score": 8,
-        "created_at": "2014-12-18 12:27:01",
+        "created_at": "2023-12-02 12:27:01",
     },
     {
         "id": 73,
@@ -887,7 +887,7 @@ vendor_informations = [
         "number_of_unique_products": 55,
         "mean_daily_sales": 65,
         "hygiene_score": 6,
-        "created_at": "2016-09-02 05:33:27",
+        "created_at": "2023-09-02 05:33:27",
     },
     {
         "id": 74,
@@ -897,7 +897,7 @@ vendor_informations = [
         "number_of_unique_products": 175,
         "mean_daily_sales": 59,
         "hygiene_score": 0,
-        "created_at": "2022-06-21 10:39:59",
+        "created_at": "2023-06-21 10:39:59",
     },
     {
         "id": 75,
@@ -907,7 +907,7 @@ vendor_informations = [
         "number_of_unique_products": 35,
         "mean_daily_sales": 25,
         "hygiene_score": 8,
-        "created_at": "2019-01-28 09:07:49",
+        "created_at": "2023-07-28 09:07:49",
     },
     {
         "id": 76,
@@ -917,7 +917,7 @@ vendor_informations = [
         "number_of_unique_products": 158,
         "mean_daily_sales": 66,
         "hygiene_score": 4,
-        "created_at": "2018-11-03 10:56:13",
+        "created_at": "2023-11-03 10:56:13",
     },
     {
         "id": 77,
@@ -927,7 +927,7 @@ vendor_informations = [
         "number_of_unique_products": 39,
         "mean_daily_sales": 74,
         "hygiene_score": 5,
-        "created_at": "2017-07-25 07:31:07",
+        "created_at": "2023-07-25 07:31:07",
     },
     {
         "id": 78,
@@ -937,7 +937,7 @@ vendor_informations = [
         "number_of_unique_products": 158,
         "mean_daily_sales": 66,
         "hygiene_score": 4,
-        "created_at": "2018-11-04 14:56:13",
+        "created_at": "2023-11-04 14:56:13",
     },
     {
         "id": 79,
@@ -947,7 +947,7 @@ vendor_informations = [
         "number_of_unique_products": 39,
         "mean_daily_sales": 74,
         "hygiene_score": 5,
-        "created_at": "2019-07-25 17:31:07",
+        "created_at": "2023-07-25 17:31:07",
     },
     {
         "id": 80,
@@ -957,7 +957,7 @@ vendor_informations = [
         "number_of_unique_products": 157,
         "mean_daily_sales": 42,
         "hygiene_score": 5,
-        "created_at": "2017-07-10 03:29:56",
+        "created_at": "2023-07-10 03:29:56",
     },
     {
         "id": 81,
@@ -967,7 +967,7 @@ vendor_informations = [
         "number_of_unique_products": 157,
         "mean_daily_sales": 42,
         "hygiene_score": 5,
-        "created_at": "2017-07-14 13:29:56",
+        "created_at": "2023-07-14 13:29:56",
     },
     {
         "id": 82,
@@ -977,7 +977,7 @@ vendor_informations = [
         "number_of_unique_products": 33,
         "mean_daily_sales": 39,
         "hygiene_score": 3,
-        "created_at": "2015-03-01 08:47:15",
+        "created_at": "2023-09-01 08:47:15",
     },
     {
         "id": 83,
@@ -987,7 +987,7 @@ vendor_informations = [
         "number_of_unique_products": 113,
         "mean_daily_sales": 15,
         "hygiene_score": 6,
-        "created_at": "2021-06-21 07:49:00",
+        "created_at": "2023-06-21 07:49:00",
     },
     {
         "id": 84,
@@ -997,7 +997,7 @@ vendor_informations = [
         "number_of_unique_products": 113,
         "mean_daily_sales": 15,
         "hygiene_score": 6,
-        "created_at": "2021-06-11 17:49:00",
+        "created_at": "2023-06-11 17:49:00",
     },
     {
         "id": 85,
@@ -1007,7 +1007,7 @@ vendor_informations = [
         "number_of_unique_products": 130,
         "mean_daily_sales": 89,
         "hygiene_score": 1,
-        "created_at": "2017-01-25 02:08:24",
+        "created_at": "2023-07-25 02:08:24",
     },
     {
         "id": 86,
@@ -1017,7 +1017,7 @@ vendor_informations = [
         "number_of_unique_products": 111,
         "mean_daily_sales": 88,
         "hygiene_score": 9,
-        "created_at": "2020-07-01 04:18:00",
+        "created_at": "2023-07-01 04:18:00",
     },
     {
         "id": 89,
@@ -1027,7 +1027,7 @@ vendor_informations = [
         "number_of_unique_products": 141,
         "mean_daily_sales": 96,
         "hygiene_score": 6,
-        "created_at": "2019-06-23 07:50:53",
+        "created_at": "2023-06-23 07:50:53",
     },
     {
         "id": 93,
@@ -1037,7 +1037,7 @@ vendor_informations = [
         "number_of_unique_products": 44,
         "mean_daily_sales": 21,
         "hygiene_score": 10,
-        "created_at": "2020-03-02 05:18:28",
+        "created_at": "2023-09-02 05:18:28",
     },
     {
         "id": 95,
@@ -1047,7 +1047,7 @@ vendor_informations = [
         "number_of_unique_products": 141,
         "mean_daily_sales": 66,
         "hygiene_score": 2,
-        "created_at": "2020-09-15 02:31:44",
+        "created_at": "2023-09-15 02:31:44",
     },
     {
         "id": 100,
@@ -1057,7 +1057,7 @@ vendor_informations = [
         "number_of_unique_products": 103,
         "mean_daily_sales": 100,
         "hygiene_score": 4,
-        "created_at": "2021-02-25 05:17:29",
+        "created_at": "2023-08-25 05:17:29",
     },
 ]
 
@@ -1066,7 +1066,7 @@ vendor_information_evaluations = [
         "id": 1,
         "vendor_information_id": 1,
         "status": "accepted",
-        "created_at": "2023-02-11 13:43:10",
+        "created_at": "2023-08-11 13:43:10",
         "updated_at": "2023-02-12 10:32:20",
     },
 ]
@@ -1077,7 +1077,7 @@ vendor_selections = [
         "id": 1,
         "vendor_information_evaluation_id": 1,
         "status": "accepted",
-        "created_at": "2023-02-12 13:45:00",
+        "created_at": "2023-08-12 13:45:00",
         "updated_at": "2023-02-15 11:25:20",
     },
 ]
@@ -1086,6 +1086,6 @@ contracts = [
     {
         "id": 1,
         "vendor_id": 1,
-        "created_at": "2023-02-20 15:12:00",
+        "created_at": "2023-08-20 15:12:00",
     }
 ]
